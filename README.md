@@ -167,7 +167,7 @@ alembic current
 backend/
 ├── src/
 │   ├── main.py              # FastAPI app entry point
-│   ├── config.py            # Configuration settings
+│   ├── config.py            # Configuration setting
 │   ├── db.py                # Database setup
 │   ├── dependencies.py      # FastAPI dependencies
 │   ├── models/              # SQLAlchemy models
